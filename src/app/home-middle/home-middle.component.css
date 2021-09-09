@@ -1,0 +1,124 @@
+.carousel-item img
+{
+    height:70vh;
+    width:100%
+}
+
+
+.carousel-caption
+{
+   position: absolute;
+   top: 50%;
+   transform: translateY(-50%);
+}
+
+.carousel-caption h3
+{
+   font-size: 200%;
+   text-transform: uppercase;
+   text-shadow: 1px 1px 10px #000;
+}
+
+.additional1
+{
+    padding-top: 60px;
+    background-color: #14348e;
+}
+
+.additional1 hr{
+    border: 5px solid #f8f7f7;
+    width: 80%;
+    margin-bottom: 30px;
+}
+.additional2{
+    background-color: #035946;
+    padding-top: 60px;
+}
+
+.additional1 .row2
+{
+    padding-bottom: 80px;
+    padding-top: 50px;
+}
+
+.horizontal hr{
+    border:2px solid white;
+    width:95%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.testimonials{
+    padding-top: 60px;
+    background-color: #facfd2;
+}
+
+.testimonials hr{
+    width:70%;
+    border: 2px solid #b4b4b4;
+    margin-top: .3rem;
+    margin-bottom: 1rem;
+}
+
+.testimonials-cards{
+    padding:80px 0;
+    background-color: #facfd2;
+}
+
+.card{
+    box-shadow: 0 0 30px rgba(0,0,0,0.5);
+    overflow: hidden;
+    border-radius: 15px;
+    margin-bottom: 10px;
+    height:480px;
+}
+
+.img1 img{
+    height: 150px;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+    width: 100%;
+}
+
+.img2 img{
+    position: relative;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    z-index: 1;
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+    border: 7px solid #fff;
+    margin-top: -80px;
+}
+
+.card:hover .img2 img{
+    border-color: darkcyan;
+    transition: .7s;
+}
+
+.card:hover{
+    box-shadow: 0 0 45px #8dee0e;
+    transition: .7s;
+    z-index: 1;
+}
+
+.main-text{
+    padding: 30px 0;
+    text-align: center;
+}
+
+.main-text h2{
+    text-transform: uppercase;
+    font-weight: 900;
+    font-size: 20px;
+    margin: 0 0 20px;
+}
+
+
+.main-text p{
+    font-size: 16px;
+    padding: 0 35px;
+}
+
