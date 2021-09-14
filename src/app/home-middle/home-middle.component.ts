@@ -32,5 +32,6 @@ anime.timeline({loop: true})
   });
 
   }
+  
 
 }

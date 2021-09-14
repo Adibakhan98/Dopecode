@@ -1,3 +1,4 @@
+  /* Adiba's code initial*/
 .c2 {
     font-weight: 800;
     font-size: 2em;
@@ -9,7 +10,9 @@
     line-height: 1em;
   }
   
-  /* EXPERIEMNT*/
+ 
+  
+  /* Adiba's code end*/
 
   .ml2 .letter {
     display: inline-block;
@@ -20,7 +23,7 @@
 
 .carousel-item img
 {
-    height:90vh;
+    height:70vh;
     width:100%
 }
 
